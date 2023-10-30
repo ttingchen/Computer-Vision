@@ -1,7 +1,9 @@
 data_hires/
-data/
-output/
+data*/
+output*/
 Chen*/
+course/
+croppedyale/
 *.zip
 # Byte-compiled / optimized / DLL files
 __pycache__/
